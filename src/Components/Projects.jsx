@@ -24,7 +24,7 @@ const projectarr = [
 export default function Projects() {
   return (
     <>
-      <section id="projects" className="w-full mb-48">
+      <section id="projects"   className="w-full mb-48">
         <h1 className="h-[7rem] bg-black text-white text-3xl flex items-center justify-center">
           Projects
         </h1>
